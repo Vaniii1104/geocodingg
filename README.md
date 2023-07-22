@@ -1,2 +1,2 @@
 # geocodingg
-We will be scraping the data from Geocode API 
+We will be scraping the data using Geocode API 
